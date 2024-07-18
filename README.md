@@ -1,7 +1,7 @@
 # Automation-With-Cypress
 his repository contains a Cypress project for automated testing of the SauceDemo website.
 
-## Project Structure
+## Project Structure (In Ass1Cypress)
 
 - `cypress`
   - `e2e`
@@ -42,6 +42,7 @@ The test cases are defined in `TestSpec.cy.js`:
 
 ## Setup and Installation
 
+### First Unzip The Folder
 1. Clone the repository:
 
    ```bash
